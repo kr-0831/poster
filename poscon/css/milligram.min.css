@@ -1,0 +1,16 @@
+body { text-align: center;}
+
+head { margin-left: 120px}
+
+.done { margin-right: 200px}
+
+#grid { * {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	margin: 5px;
+	float: left;
+	list-style: none;
+}
